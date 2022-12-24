@@ -499,12 +499,13 @@ nav ul li a {
   bottom: 146px;
   left: 235px;
 }
-.ft-img img:nth-child(4) {
+/* .ft-img img:nth-child(4) {
   width: 131px;
   position: relative;
   bottom: 50px;
   left: 157px;
-}
+
+} */
 .ft-img img:nth-child(3) {
   width: 56px;
   position: relative;
